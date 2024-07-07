@@ -1,1 +1,2 @@
-# Persist-Ventures-Assignment-2
+# Crypto Trading Bot
+
